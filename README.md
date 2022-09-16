@@ -1,2 +1,2 @@
-# ImplyDeployAWS
-Terraform to Deploy Imply on AWS
+# ImplyDeployAzure
+Terraform to Deploy Imply on Azure Kubernetes (AKS)
